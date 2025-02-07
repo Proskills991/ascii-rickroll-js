@@ -6,9 +6,9 @@ RICKROLLED in ASCII
 
 ## How to Use
 
-You can send the link to someone, as is ([youjustgot.com](https://youjustgot.com)) or add a name at the end like [youjustgot.com/?from=juxtopposed](https://youjustgot.com/?from=juxtopposed). 
+You can send the link to someone, as is ([youjustgot.com](https://youjustgot.com)) or by adding a name at the end like [youjustgot.com/?from=juxtopposed](https://youjustgot.com/?from=juxtopposed). This will generate a preview image making it seem like you're sending a gift.
 
-The preview image will generate either a default one (no name) or one with the name so it's more impactful, like this:
+The preview image will either be a default one (no name) or one with a name so it's more impactful, like this:
 
 ![preview](https://github.com/user-attachments/assets/9df1e03e-ff56-44fd-aedb-50467a1ba982)
 
